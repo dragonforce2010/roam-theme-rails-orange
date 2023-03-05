@@ -1,4 +1,4 @@
-import './leyendarker.css'
+import './rails.css'
 
 
 
